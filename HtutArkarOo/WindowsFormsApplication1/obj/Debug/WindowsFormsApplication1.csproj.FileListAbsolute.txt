@@ -1,0 +1,27 @@
+D:\2nd Assignments of 1st Semester(Year 1)\Programming in.NET\HtutArkarOo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\2nd Assignments of 1st Semester(Year 1)\Programming in.NET\HtutArkarOo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\2nd Assignments of 1st Semester(Year 1)\Programming in.NET\HtutArkarOo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\2nd Assignments of 1st Semester(Year 1)\Programming in.NET\HtutArkarOo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\2nd Assignments of 1st Semester(Year 1)\Programming in.NET\HtutArkarOo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\2nd Assignments of 1st Semester(Year 1)\Programming in.NET\HtutArkarOo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\2nd Assignments of 1st Semester(Year 1)\Programming in.NET\HtutArkarOo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\2nd Assignments of 1st Semester(Year 1)\Programming in.NET\HtutArkarOo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\2nd Assignments of 1st Semester(Year 1)\Programming in.NET\HtutArkarOo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\htut arkar oo\Desktop\Htut Arkar Oo\HtutArkarOo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\htut arkar oo\Desktop\Htut Arkar Oo\HtutArkarOo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\htut arkar oo\Desktop\Htut Arkar Oo\HtutArkarOo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\htut arkar oo\Desktop\Htut Arkar Oo\HtutArkarOo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\htut arkar oo\Desktop\Htut Arkar Oo\HtutArkarOo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\htut arkar oo\Desktop\Htut Arkar Oo\HtutArkarOo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\htut arkar oo\Desktop\Htut Arkar Oo\HtutArkarOo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\htut arkar oo\Desktop\Htut Arkar Oo\HtutArkarOo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\htut arkar oo\Desktop\Htut Arkar Oo\HtutArkarOo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+S:\AssignmentsOfYear1\2nd Assignments of 1st Semester(Year 1)\Programming in .NET(Htut Arkar Oo)\Htut Arkar Oo\HtutArkarOo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+S:\AssignmentsOfYear1\2nd Assignments of 1st Semester(Year 1)\Programming in .NET(Htut Arkar Oo)\Htut Arkar Oo\HtutArkarOo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+S:\AssignmentsOfYear1\2nd Assignments of 1st Semester(Year 1)\Programming in .NET(Htut Arkar Oo)\Htut Arkar Oo\HtutArkarOo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Important files\Gusto Assignment Collections\AssignmentsOfYear1\2nd Assignments of 1st Semester(Year 1)\Programming in .NET(Htut Arkar Oo)\Htut Arkar Oo\HtutArkarOo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Important files\Gusto Assignment Collections\AssignmentsOfYear1\2nd Assignments of 1st Semester(Year 1)\Programming in .NET(Htut Arkar Oo)\Htut Arkar Oo\HtutArkarOo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Important files\Gusto Assignment Collections\AssignmentsOfYear1\2nd Assignments of 1st Semester(Year 1)\Programming in .NET(Htut Arkar Oo)\Htut Arkar Oo\HtutArkarOo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Important files\Gusto Assignment Collections\AssignmentsOfYear1\2nd Assignments of 1st Semester(Year 1)\Programming in .NET(Htut Arkar Oo)\Htut Arkar Oo\HtutArkarOo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Important files\Gusto Assignment Collections\AssignmentsOfYear1\2nd Assignments of 1st Semester(Year 1)\Programming in .NET(Htut Arkar Oo)\Htut Arkar Oo\HtutArkarOo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Important files\Gusto Assignment Collections\AssignmentsOfYear1\2nd Assignments of 1st Semester(Year 1)\Programming in .NET(Htut Arkar Oo)\Htut Arkar Oo\HtutArkarOo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
